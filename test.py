@@ -6,3 +6,7 @@ print("Hello", name)
 #A new feature
 
 print("New feature added.")
+
+#A new hotfix
+
+print("I fixed a bug")
